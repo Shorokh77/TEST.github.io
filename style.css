@@ -1,0 +1,40 @@
+.pattern{
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("../TrainingProjects/photos/pattern.jpeg");
+   
+}
+
+.brushes{
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frames{
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.finnish{
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.bluetext{
+    font-style: helvetica ;
+    font-weight: bold;
+    color: blue;
+}
+
+
