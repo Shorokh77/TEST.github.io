@@ -1,0 +1,51 @@
+
+
+body {
+    background-color: beige;
+    font-family: Andale Mono, monospace;
+    margin: 80px 200px;
+    padding: 30px 300px 30px 300px;
+    background: url(https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-52393.jpg?size=626&ext=jpg) no-repeat center / cover;
+}
+
+.text {
+    text-align: center;
+}
+.container1 {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 7%;
+    margin-top: 7%;
+
+}
+
+.header {
+    padding-top: 180px;
+    text-align: center;
+}
+
+h1 {
+    cursor: not-allowed;
+}
+
+.config {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    
+}
+
+button {
+    font-size: 24px;
+    margin: 1px 25px 1px 25px;
+    padding: 10px 25px;
+    color: rgb(117, 198, 198);
+    background-color: black;
+    cursor: pointer;
+
+}
+
+.footer {
+    text-align: center;
+    padding-top: 100px;
+}
